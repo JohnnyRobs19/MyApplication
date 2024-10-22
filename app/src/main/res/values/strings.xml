@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="introduction_text">Hi, My name is Jon!</string>
+    <string name="profile_picture_description">Profile picture of Jonathan</string>
+    <string name="favourite_place_description">This is my favourite place!</string>
+    <string name="profile">Profile</string>
+    <string name="edit_pic">Edit Picture</string>
+    <string name="name">Jonathan Siew Zunxian</string>
+    <string name="email">23004944@siswa.um.edu.my</string>
+    <string name="general_information">General Information</string>
+    <string name="age">Age</string>
+    <string name="age_value">20</string>
+    <string name="gender">Gender</string>
+    <string name="gender_value">Male</string>
+    <string name="occupation">Occupation</string>
+    <string name="occupation_value">Artificial Intelligence Undergraduate</string>
+    <string name="race">Race</string>
+    <string name="race_value">Chinese</string>
+    <string name="contact_num">Contact Number</string>
+    <string name="contact_num_value">+6011-65589681</string>
+    <string name="update_contact_details">Update Contact Details</string>
+</resources>
