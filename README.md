@@ -8,18 +8,6 @@ The goal of this project is to demonstrate Android UI design principles, best pr
 
 ---
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Author](#author)
-
----
-
 ## Features
 
 - User-friendly profile page with smooth animations  
